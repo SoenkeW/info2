@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2024 Soenke Weber
+//
+// SPDX-License-Identifier: MIT
+
 import static java.lang.Math.*;
 import static java.lang.Math.random;
 

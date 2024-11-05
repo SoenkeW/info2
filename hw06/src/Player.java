@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2024 Soenke Weber
+//
+// SPDX-License-Identifier: MIT
+
 public class Player {
     private int currentCard;
 

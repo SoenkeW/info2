@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Soenke Weber
+
+SPDX-License-Identifier: MIT
+-->
+
 # University Exercises Repository
 
 This repository contains solutions to two university exercises:

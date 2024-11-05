@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2024 Soenke Weber
+//
+// SPDX-License-Identifier: MIT
+
 import java.util.Scanner;
 public class Game_Chair {
     public Player Computer = new Player();
